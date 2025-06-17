@@ -1,0 +1,85 @@
+{
+    "KVK-nummer": "12345678",
+    "Pagina": "1",
+    "Bedrijfsnaam": {
+        "Naam": "Voorbeeld B.V.",
+        "Statutaire naam": "Voorbeeld BV",
+        "Statutaire zetel": "Fictiedorp"
+    },
+    "Datum van oprichting": {
+        "Datum": [
+            "01-11-2012"
+        ]
+    },
+    "Kapitaal": {
+        "Geplaatst kapitaal EUR": [
+            "€55.555,55"
+        ],
+        "Gestort kapitaal EUR": [
+            "44.444,44"
+        ]
+    },
+    "Deponering jaarrekening over boekjaar ()": {
+        "Deponering datum ()": [
+            "23-04-2021"
+        ]
+    },
+    "Onderneming": {
+        "RSIN": "123456789",
+        "Activiteiten": [
+            {
+                "SBI-code": "6420",
+                "Omschrijving": "Financiële holdings"
+            },
+            {
+                "SBI-code": "0112",
+                "Omschrijving": "Teelt van rijst"
+            }
+        ]
+    },
+    "Vestiging": {
+        "Vestigingsnummer": [
+            "000012345678"
+        ],
+        "Handelsnaam": [
+            "Voorbeeld BV"
+        ],
+        "Bezoekadres": [
+            "Fictiestraat 15, 8877XX Utopia",
+            {
+                "Huisnummer": [
+                    "15"
+                ]
+            },
+            {
+                "Postcode": [
+                    "8877XX"
+                ]
+            },
+            {
+                "Plaats": [
+                    "Utopia"
+                ]
+            }
+        ]
+    },
+    "Eigenaar": [
+        {
+            "Naam": [
+                {
+                    "Voorletters": [
+                        "J"
+                    ]
+                },
+                {
+                    "Achternaam": [
+                        "Fictie"
+                    ]
+                }
+            ],
+            "Geboortedatum": "03-06-1956",
+            "Nationaliteit": "Nederlandse",
+            "Functie(s)": "Bestuurder"
+        }
+    ]
+}
